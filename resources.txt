@@ -1,0 +1,15 @@
+Some really useful websites:
+
+1.  https://regex101.com/
+    - To test out the regular expressions along with the test strings.
+    - It also displays the following and hence helps determine the efficiency of our regex: 
+                        -Number of matches
+                        -Number of steps needed to make the match.
+                        -Time taken
+
+ 2. https://regexone.com/
+    - Consists of 15 lessons to learn the concepts and apply immediately.
+    - and 8 curated exercise questions exclusively to test the regex knowledge.
+    
+ 
+ 
